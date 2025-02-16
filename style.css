@@ -1,0 +1,27 @@
+
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+
+    background-color: black;
+    color:#F6F6F6;
+    
+}
+
+
+.titulo-destaque{
+
+
+    color: #22D4F4;
+
+
+}
+
+.texto-destacado{
+
+    color:bisque ;
+}
